@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "소원을 말해봐 Genie",
+  "base_artist": "Girls' Generation",
+  "createdAt": "2026-02-13T19:34:11.402199Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "소원을 말해봐 (Genie) [Rock Tronic Remix Version] [Live]",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/01_소원을_말해봐_(Genie)_[Rock_Tronic_Remix_Version]_[Live]_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "소원을 말해봐 Genie",
+      "artist": "MAX, LUNA, SUHO, SEULGI, KEY, XIUMIN & JO EUN",
+      "has_synced": false,
+      "path": "select/02_소원을_말해봐_Genie_MAX,_LUNA,_SUHO,_SEULGI,_KEY,_XIUMIN_&_JO_EUN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "소원을 말해봐 Genie",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_소원을_말해봐_Genie_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "소원을 말해봐 (Genie)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_소원을_말해봐_(Genie)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "소원을 말해봐 (Genie)",
+      "artist": "Girls’ Generation",
+      "has_synced": true,
+      "path": "select/05_소원을_말해봐_(Genie)_Girls’_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "소원을 말해봐",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_01_소원을_말해봐_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "소원을 말해봐 (Genie) (Live)",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_02_소원을_말해봐_(Genie)_(Live)_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "소원을 말해봐 (Genie) (Live) (Rock Tronic Remix Version)",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_03_소원을_말해봐_(Genie)_(Live)_(Rock_Tronic_Remix_Version)_少女時代.txt"
+    }
+  ]
+}
